@@ -1,4 +1,4 @@
 # Personal
  This is my personal website.
  
-https://fiacrerougieux.github.io/Personal/
+https://fiacrerougieux.github.io/personal/
